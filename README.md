@@ -1,6 +1,6 @@
 # Hello! I'm a Game Developer 👾
 
-I love creating projects using a wide array of tools and programming languages, with a particular passion for developing 2D games using GML. Constantly exploring new technologies and innovative solutions, I strive to craft dynamic and engaging gaming experiences.
+I love creating projects using a wide set of tools and programming languages, with a particular passion for developing 2D games using GML. Constantly exploring new technologies and innovative solutions, I strive to craft dynamic and engaging gaming experiences.
 
 # Contact me
 
