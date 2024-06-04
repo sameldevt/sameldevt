@@ -4,7 +4,7 @@ I love creating projects using a wide array of tools and programming languages, 
 
 # Contact me
 
-<a href="https://www.linkedin.com/in/sameldevt/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/samueltdev/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:samuelsouza.dev@outlook.com)
 
 # Tools and programming languages
