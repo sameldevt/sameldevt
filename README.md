@@ -1,7 +1,3 @@
-# Hello! I'm a Developer 👾
-
-I love creating projects using a wide set of tools and programming languages, with a particular passion for developing 2D games. Constantly exploring new technologies and innovative solutions, I strive to craft dynamic and engaging gaming experiences.
-
 # Contact me
 
 <a href="https://www.linkedin.com/in/samueltdev/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
